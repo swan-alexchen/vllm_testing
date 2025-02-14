@@ -1,7 +1,7 @@
 version: "2.0"
 services:
   fastapi:
-    image: alex6nbai/xinference_vllm:test
+    image: alex6nbai/xinference_vllm:test20250214
     expose:
       - port: 9997
     env:
